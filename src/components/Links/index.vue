@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://yscblog.top/",
   },
   {
     icon: Cloud,
@@ -56,7 +56,7 @@ let linksData = [
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "https://splayer.yscblog.top/",
   },
   {
     icon: Compass,
@@ -71,7 +71,7 @@ let linksData = [
   {
     icon: Fire,
     name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    link: "https://hot.yscblog.top/",
   },
 ];
 
