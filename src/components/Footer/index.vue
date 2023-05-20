@@ -5,7 +5,7 @@
         >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
         <a href="https://main.yscblog.top">超哥</a>
       </span>
-      <!-- 以下信息请不要修改哦 -->
+      <!-- 以下信息请不要修改哦 
       <span class="hidden"
         >&nbsp;&amp;&nbsp;Made&nbsp;by&nbsp;<a
           :href="config.github"
@@ -13,7 +13,7 @@
         >
           {{ config.author }}
         </a></span
-      >&nbsp;&amp;
+      >&nbsp;&amp;-->
       <!-- 站点备案
       <a href="https://beian.miit.gov.cn" target="_blank"
         >豫ICP备2022018134号-1</a
