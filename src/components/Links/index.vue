@@ -50,8 +50,8 @@ let linksData = [
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "好玩特辑",
+    link: "https://yscblog.top/funny/",
   },
   {
     icon: CompactDisc,
@@ -61,12 +61,12 @@ let linksData = [
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "https://nav.yscblog.top/",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://web.yscblog.top/",
   },
   {
     icon: Fire,
