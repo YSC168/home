@@ -66,7 +66,7 @@ let linksData = [
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.yscblog.top/",
+    link: "https://yscblog.top/nav/",
   },
   {
     icon: Fire,
